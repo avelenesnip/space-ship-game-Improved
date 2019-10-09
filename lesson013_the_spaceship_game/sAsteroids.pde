@@ -1,0 +1,13 @@
+class asteroids extends GameObject {
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+}
